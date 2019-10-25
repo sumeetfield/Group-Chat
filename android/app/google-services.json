@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554168427790",
+    "firebase_url": "https://flash-chat-95ffc.firebaseio.com",
+    "project_id": "flash-chat-95ffc",
+    "storage_bucket": "flash-chat-95ffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554168427790:android:b200b05ee3713df22c635f",
+        "android_client_info": {
+          "package_name": "co.sumeetfield.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554168427790-qq1bug7i307c4og04aholmesnh4mri8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYYc9mzuhyM-D2sTTvPuqtD9-CUEd1t-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554168427790-qq1bug7i307c4og04aholmesnh4mri8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
